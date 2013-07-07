@@ -1,4 +1,4 @@
-WeblocOpener
+WindowsWeblocOpenTool
 ============
 
-Open webloc links in Windows
+Associate this program with .webloc extension through Windows Explorer, then simply open any .webloc file.
